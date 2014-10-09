@@ -7,6 +7,8 @@ I've moved the code into a ForgeGradle structure to make it easier to build.
 
 The intent of this repository is to provide a copy of Waila for 1.6.4 that you can successfully compile your mod against, it's not intended for regular use.
 
+This repository is currently up to date with commit db53ba2 (2014-05-05 "Removed ModLoader dep") of the main repository.
+
 ## Setting up Forge Gradle
 To set up Forge Gradle, run `gradlew setupDecompWorkspace`.
 
